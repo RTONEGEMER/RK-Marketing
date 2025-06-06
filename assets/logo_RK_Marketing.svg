@@ -1,0 +1,25 @@
+
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rkGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d4af37" />
+      <stop offset="100%" stop-color="#1e3a5f" />
+    </linearGradient>
+    <style>
+      .rk {
+        font-family: 'Arial', sans-serif;
+        font-size: 80px;
+        font-weight: bold;
+        fill: url(#rkGradient);
+      }
+      .marketing {
+        font-family: 'Arial', sans-serif;
+        font-size: 20px;
+        fill: #d4af37;
+        letter-spacing: 5px;
+      }
+    </style>
+  </defs>
+  <text x="30" y="90" class="rk">RK</text>
+  <text x="48" y="140" class="marketing">MARKETING</text>
+</svg>

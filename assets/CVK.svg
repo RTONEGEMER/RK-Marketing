@@ -1,0 +1,30 @@
+
+<svg width="800" height="1000" xmlns="http://www.w3.org/2000/svg" style="font-family: Arial, sans-serif; background-color: #fdfdfd;">
+  <!-- Nom -->
+  <text x="50%" y="100" font-size="40" font-weight="bold" text-anchor="middle">RAYANE</text>
+
+  <!-- Ligne de séparation -->
+  <line x1="100" y1="120" x2="700" y2="120" stroke="#000" stroke-width="2"/>
+
+  <!-- Titre de section -->
+  <text x="50%" y="170" font-size="24" font-weight="bold" text-anchor="middle">OCCUPATION</text>
+
+  <!-- Description -->
+  <text x="120" y="210" font-size="18">
+    <tspan x="120" dy="1.2em">I am a programmer and designer. I create</tspan>
+    <tspan x="120" dy="1.2em">functional and visually appealing applications,</tspan>
+    <tspan x="120" dy="1.2em">solve problems through code, and</tspan>
+    <tspan x="120" dy="1.2em">design intuitive user interfaces. My work</tspan>
+    <tspan x="120" dy="1.2em">combines technical expertise with a keen</tspan>
+    <tspan x="120" dy="1.2em">eye for aesthetics.</tspan>
+  </text>
+
+  <!-- Compétences -->
+  <text x="50%" y="410" font-size="24" font-weight="bold" text-anchor="middle">KEY SKILLS</text>
+
+  <text x="140" y="450" font-size="18">• Programming</text>
+  <text x="140" y="480" font-size="18">• User Interface Design</text>
+  <text x="140" y="510" font-size="18">• Problem-Solving</text>
+  <text x="140" y="540" font-size="18">• Front-End Development</text>
+  <text x="140" y="570" font-size="18">• Visual Design</text>
+</svg>
